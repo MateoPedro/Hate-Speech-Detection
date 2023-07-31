@@ -1,4 +1,4 @@
-# Hate Speech Detection
+# Offensive Language Identification System
 Federated learning project aiming to detect hate speech in online community chats while respecting user's privacy
 
 The file, hate_flower_final.ipynb, is a notebook that sets up a Flower client and runs a simulation of the server and multiple clients. To run this, upload the notebook to Google Colab and choose a premium GPU instance. Also, upload the noisy_test.csv and noisy_train.csv files to the Colab instance. Run all cells to install the dependencies and run the experiment. 
